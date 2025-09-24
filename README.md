@@ -3,7 +3,6 @@
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/Java-Budget-Tracker)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/Java-Budget-Tracker)
 
 A simple **Java-based Budget Tracker** that helps you manage your income and expenses, track spending by category, and maintain a monthly budget. All transactions are stored in a **text file in real-time**, ensuring no data is lost.
 
